@@ -92,6 +92,6 @@ Here’s a detailed breakdown of the tools and technologies I’m proficient in:
 Feel free to reach out to me if you have any questions or collaboration ideas!
 
 - Email: segniassaye2@gmail.com
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/segni-assaye-38055a283/](https://www.linkedin.com/in/segni-assaye-38055a283/)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/segni-assaye-38055a283/)
 - GitHub: [Your GitHub](https://github.com/Segniko)
 
