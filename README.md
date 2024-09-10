@@ -13,11 +13,13 @@ My goal is to continue building innovative applications while learning new tools
 - [Contact](#contact)
 
  **About Me**
+
 I am a passionate software developer with experience in both front-end and back-end technologies. 
 Over the years, I’ve mastered multiple programming languages and frameworks, aiming to create efficient and user-friendly applications. 
 I am driven by my curiosity and dedication to learning new technologies to solve real-world problems.
 
 **Skills**
+
 Here’s a list of technologies and programming languages I have learned and used in various projects:
 - **Languages**: 
   - Python
@@ -39,6 +41,7 @@ Here’s a list of technologies and programming languages I have learned and use
   - Responsive Design
 
  **Projects**
+
 Here’s a list of my projects that showcase my expertise across different technologies:
 
  **1. Fitness Web App**  
