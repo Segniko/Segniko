@@ -92,6 +92,7 @@ Here’s a detailed breakdown of the tools and technologies I’m proficient in:
 | **React Native**| For building mobile apps across platforms         |
 
 **Contact**
+
 Feel free to reach out to me if you have any questions or collaboration ideas!
 
 - Email: segniassaye2@gmail.com
