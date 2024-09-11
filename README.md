@@ -1,101 +1,24 @@
- **Portfolio: Developer Showcase**
+# 💫 About Me:
+ **Portfolio: Developer Showcase**<br><br>Welcome to my portfolio repository!<br>This repository is a collection of the projects I have built and technologies I have mastered over my learning journey as a software developer.<br>My goal is to continue building innovative applications while learning new tools and technologies.<br><br>**Table of Contents**<br>- [About Me](#about-me)<br>- [Skills](#skills)<br>- [Projects](#projects)<br>- [Installation](#installation)<br>- [Technologies](#technologies)<br>- [Contact](#contact)<br><br> **About Me**<br><br>I am a passionate software developer with experience in both front-end and back-end technologies. <br>Over the years, I’ve mastered multiple programming languages and frameworks, aiming to create efficient and user-friendly applications. <br>I am driven by my curiosity and dedication to learning new technologies to solve real-world problems.<br><br>**Skills**<br><br>Here’s a list of technologies and programming languages I have learned and used in various projects:<br>- **Languages**: <br>  - Python<br>  - C<br>  - C++<br>  - Java<br>  - JavaScript<br>  - SQL<br>  - HTML<br>  - CSS<br>- **Frameworks & Libraries**:<br>  - ReactJS<br>  - React Native<br>  - NodeJS<br>  - MongoDB<br>- **Other Tools**:<br>  - Git & GitHub<br>  - REST APIs<br>  - Responsive Design<br><br> **Projects**<br><br>Here’s a list of my projects that showcase my expertise across different technologies:<br><br> **1. Fitness Web App**  <br>A full-stack fitness app built with ReactJS and NodeJS to help users track workouts and follow guided exercise videos.  <br>**Tech Stack**: ReactJS, NodeJS, MongoDB, CSS<br><br>**2. Event Management System**  <br>A comprehensive system for managing events, handling registrations, tickets, and attendees. Built with Java, SQL, and HTML/CSS.  <br>**Tech Stack**: Java, SQL, HTML/CSS<br><br>**3. Online Store**  <br>An e-commerce website built using the MERN stack (MongoDB, Express, React, Node.js) with user authentication and secure payments.  <br>**Tech Stack**: MERN (MongoDB, ExpressJS, ReactJS, NodeJS)<br><br>Check out more of my projects in this repository!<br><br>**Installation**<br>To run any of the projects locally:<br>1. Clone the repository:<br>   ```bash<br>   git clone https://github.com/your-username/your-repository.git<br>   ```<br>2. Navigate to the project directory:<br>   ```bash<br>   cd project-directory<br>   ```<br>3. Install dependencies:<br>   ```bash<br>   npm install<br>   ```<br>4. Start the development server:<br>   ```bash<br>   npm start<br>   ```<br><br>**Technologies**<br>Here’s a detailed breakdown of the tools and technologies I’m proficient in:<br><br>| Technology      | Description                                       |<br>|-----------------|---------------------------------------------------|<br>| **Python**      | Versatile programming for scripting and web dev   |<br>| **Java**        | Object-oriented language for enterprise apps      |<br>| **JavaScript**  | Essential for front-end and back-end development  |<br>| **ReactJS**     | Modern library for building user interfaces       |<br>| **NodeJS**      | Server-side JavaScript runtime environment        |<br>| **MongoDB**     | NoSQL database for scalable applications          |<br>| **SQL**         | Structured Query Language for relational databases|<br>| **React Native**| For building mobile apps across platforms         |<br><br>**Contact**<br><br>Feel free to reach out to me if you have any questions or collaboration ideas!<br><br>- Email: segniassaye2@gmail.com<br>- LinkedIn: [LinkedIn](https://www.linkedin.com/in/segni-assaye-38055a283/)<br>- GitHub: [GitHub](https://github.com/Segniko)<br><br>
 
-Welcome to my portfolio repository!
-This repository is a collection of the projects I have built and technologies I have mastered over my learning journey as a software developer.
-My goal is to continue building innovative applications while learning new tools and technologies.
 
-**Table of Contents**
-- [About Me](#about-me)
-- [Skills](#skills)
-- [Projects](#projects)
-- [Installation](#installation)
-- [Technologies](#technologies)
-- [Contact](#contact)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/segni-assaye-38055a283/) 
 
- **About Me**
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Segniko&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Segniko&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Segniko&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-I am a passionate software developer with experience in both front-end and back-end technologies. 
-Over the years, I’ve mastered multiple programming languages and frameworks, aiming to create efficient and user-friendly applications. 
-I am driven by my curiosity and dedication to learning new technologies to solve real-world problems.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-**Skills**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Segniko&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-Here’s a list of technologies and programming languages I have learned and used in various projects:
-- **Languages**: 
-  - Python
-  - C
-  - C++
-  - Java
-  - JavaScript
-  - SQL
-  - HTML
-  - CSS
-- **Frameworks & Libraries**:
-  - ReactJS
-  - React Native
-  - NodeJS
-  - MongoDB
-- **Other Tools**:
-  - Git & GitHub
-  - REST APIs
-  - Responsive Design
+---
+[![](https://visitcount.itsvg.in/api?id=Segniko&icon=0&color=0)](https://visitcount.itsvg.in)
 
- **Projects**
-
-Here’s a list of my projects that showcase my expertise across different technologies:
-
- **1. Fitness Web App**  
-A full-stack fitness app built with ReactJS and NodeJS to help users track workouts and follow guided exercise videos.  
-**Tech Stack**: ReactJS, NodeJS, MongoDB, CSS
-
-**2. Event Management System**  
-A comprehensive system for managing events, handling registrations, tickets, and attendees. Built with Java, SQL, and HTML/CSS.  
-**Tech Stack**: Java, SQL, HTML/CSS
-
-**3. Online Store**  
-An e-commerce website built using the MERN stack (MongoDB, Express, React, Node.js) with user authentication and secure payments.  
-**Tech Stack**: MERN (MongoDB, ExpressJS, ReactJS, NodeJS)
-
-Check out more of my projects in this repository!
-
-**Installation**
-To run any of the projects locally:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repository.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd project-directory
-   ```
-3. Install dependencies:
-   ```bash
-   npm install
-   ```
-4. Start the development server:
-   ```bash
-   npm start
-   ```
-
-**Technologies**
-Here’s a detailed breakdown of the tools and technologies I’m proficient in:
-
-| Technology      | Description                                       |
-|-----------------|---------------------------------------------------|
-| **Python**      | Versatile programming for scripting and web dev   |
-| **Java**        | Object-oriented language for enterprise apps      |
-| **JavaScript**  | Essential for front-end and back-end development  |
-| **ReactJS**     | Modern library for building user interfaces       |
-| **NodeJS**      | Server-side JavaScript runtime environment        |
-| **MongoDB**     | NoSQL database for scalable applications          |
-| **SQL**         | Structured Query Language for relational databases|
-| **React Native**| For building mobile apps across platforms         |
-
-**Contact**
-
-Feel free to reach out to me if you have any questions or collaboration ideas!
-
-- Email: segniassaye2@gmail.com
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/segni-assaye-38055a283/)
-- GitHub: [GitHub](https://github.com/Segniko)
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
