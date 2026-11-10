@@ -66,7 +66,7 @@ Software engineer focused on building reliable, well-crafted software with durab
 | Project | Description | Stack | Links |
 | :--- | :--- | :--- | :---: |
 | **APEX** | High-performance crash monitoring and observability engine built for modern infrastructure. | Go, Next.js | [Website](https://apex-addis.vercel.app/) • [Repository](https://github.com/Segniko/Apex) |
-| **Deep Work** | Local-first focus application for tasks, goals, and thoughts, with an AI companion and offline reminders. | React Native, Expo, SQLite | [Website](https://usedeepwork.vercel.app/) *(Private Repo)* |
+| **Deep Work** | Local-first focus application for tasks, goals, and thoughts, with an AI companion and offline reminders. | React Native, Expo, SQLite | [Website](https://usedeepwork.vercel.app/)|
 | **WinPort** | Interactive digital workspace with draggable, resizable windows, fluid animations, and custom themes. | React, Tailwind CSS, Framer Motion | [Website](https://winport.vercel.app/) |
 
 ---
