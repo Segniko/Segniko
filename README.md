@@ -66,7 +66,7 @@ Software engineer focused on building reliable, well-crafted software with durab
 | Project | Description | Stack | Links |
 | :--- | :--- | :--- | :---: |
 | **APEX** | High-performance crash monitoring and observability engine built for modern infrastructure. | Go, Next.js | [Website](https://apex-addis.vercel.app/) • [Repository](https://github.com/Segniko/Apex) |
-| **Deep Work** | Local-first focus application for tasks, goals, and thoughts, with an AI companion and offline reminders. | React Native, Expo, SQLite | [Website](https://usedeepwork.vercel.app/)|
+| **Deep Work** | Local-first focus application for tasks, goals, and thoughts, with an AI companion and offline reminders. | React Native, Expo, SQLite | [Website](https://usedeepwork.vercel.app/) |
 | **WinPort** | Interactive digital workspace with draggable, resizable windows, fluid animations, and custom themes. | React, Tailwind CSS, Framer Motion | [Website](https://winport.vercel.app/) |
 
 ---
@@ -76,11 +76,11 @@ Software engineer focused on building reliable, well-crafted software with durab
 <div align="center">
   <table border="0">
     <tr>
-      <td align="center" width="50%">
-        <img src="https://github-stats-extended.vercel.app/api?username=Segniko&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="Total Contributions and GitHub Stats" width="100%" />
+      <td align="center" valign="middle">
+        <img src="https://github-stats-extended.vercel.app/api?username=Segniko&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&custom_title=Total+Contributions&hide=stars,prs,issues&hide_rank=true&include_all_commits=true" alt="Total Contributions" />
       </td>
-      <td align="center" width="50%">
-        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Segniko&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most Used Languages" width="100%" />
+      <td align="center" valign="middle">
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Segniko&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most Used Languages" />
       </td>
     </tr>
   </table>
