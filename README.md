@@ -1,16 +1,158 @@
-# About Me:
- **Portfolio: Developer Showcase**<br><br>Welcome to my portfolio repository!<br>This repository is a collection of the projects I have built and technologies I have mastered over my learning journey as a software developer.<br>My goal is to continue building innovative applications while learning new tools and technologies.<br><br>**Table of Contents**<br>- [About Me](#about-me)<br>- [Projects](#projects)<br>- [Installation](#installation)<br>- [Technologies](#technologies)<br>- [Contact](#contact)<br><br> **About Me**<br><br>I am a passionate software developer with experience in both front-end and back-end technologies. <br>Over the years, I’ve mastered multiple programming languages and frameworks, aiming to create efficient and user-friendly applications. <br>I am driven by my curiosity and dedication to learning new technologies to solve real-world problems.<br><br> **Projects**<br><br>Here’s a list of my projects that showcase my expertise across different technologies:<br><br> **1. Fitness Web App**  <br>A full-stack fitness app built with ReactJS and NodeJS to help users track workouts and follow guided exercise videos.  <br>**Tech Stack**: ReactJS, NodeJS, MongoDB, CSS<br><br>**2. Event Management System**  <br>A comprehensive system for managing events, handling registrations, tickets, and attendees. Built with Java, SQL, and HTML/CSS.  <br>**Tech Stack**: Java, SQL, HTML/CSS<br><br>**3. Online Store**  <br>An e-commerce website built using the MERN stack (MongoDB, Express, React, Node.js) with user authentication and secure payments.  <br>**Tech Stack**: MERN (MongoDB, ExpressJS, ReactJS, NodeJS)<br><br>Check out more of my projects in this repository!<br><br>**Installation**<br>To run any of the projects locally:<br>1. Clone the repository:<br>   ```bash<br>   git clone https://github.com/your-username/your-repository.git<br>   ```<br>2. Navigate to the project directory:<br>   ```bash<br>   cd project-directory<br>   ```<br>3. Install dependencies:<br>   ```bash<br>   npm install<br>   ```<br>4. Start the development server:<br>   ```bash<br>   npm start<br>   ```<br><br>**Technologies**<br>Here’s a detailed breakdown of the tools and technologies I’m proficient in:<br><br>| Technology            | Description                                                                                   |<br>|-----------------|--------------------------------------------------|<br>| **Python**              | Versatile programming for scripting and web dev          |<br>| **Java**                  | Object-oriented language for enterprise apps                |<br>| **JavaScript**       | Essential for front-end and back-end development       |<br>| **ReactJS**            | Modern library for building user interfaces                        |<br>| **NodeJS**             | Server-side JavaScript runtime environment                   |<br>| **MongoDB**         | NoSQL database for scalable applications                        |<br>| **SQL**                    | Structured Query Language for relational databases     |<br>| **React Native**   | For building mobile apps across platforms                        |<br><br>**Contact**<br><br>Feel free to reach out to me if you have any questions or collaboration ideas!<br><br>- Email: segniassaye2@gmail.com<br>- GitHub: [GitHub](https://github.com/Segniko)<br><br>
+<div align="center">
 
+  <!-- Header Banner / Title -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,24&height=200&section=header&text=Hi%20there,%20I'm%20Segni%20Assaye%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/segni-assaye-38055a283/) 
+  <!-- Animated Typing Subtitle -->
+  <a href="https://github.com/Segniko">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full-Stack+Software+Engineer;Systems+%26+Low-Level+Programming;Building+Scalable+Modern+Web+Applications;ALX+Software+Engineering+Alumnus;Passionate+Problem+Solver+%26+Builder" alt="Typing SVG" />
+  </a>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Segniko&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Segniko&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Segniko&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  <br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Segniko&limit=5&theme=dark&combine_all_yearly_contributions=true)
+  <!-- Profile Visitor Counter & Social Badges -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Segniko&label=Profile%20Views&color=58a6ff&style=flat-square" alt="Profile Views" />
+    <a href="https://segni.is-a.dev" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-segni.is--a.dev-58a6ff?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://www.linkedin.com/in/segni-assaye-38055a283/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Segni_Assaye-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:segniassaye2@gmail.com">
+      <img src="https://img.shields.io/badge/Email-segniassaye2%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <img src="https://img.shields.io/badge/Location-Addis_Ababa%2C_Ethiopia-238636?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+  </p>
+
+</div>
+
+---
+
+### 🚀 About Me
+
+```yaml
+name: Segni Assaye
+role: Full-Stack Software Engineer & Systems Developer
+location: Addis Ababa, Ethiopia
+education: ALX Software Engineering
+interests: [Distributed Systems, Cloud Architecture, Full-Stack Apps, Low-Level Internals]
+currently_learning: [Go, Advanced Cloud Infrastructure, Microservices]
+philosophy: "Understand the system down to the byte, design for the human."
+```
+
+- 🎓 **ALX Software Engineering Alumnus** with deep foundations across low-level systems programming (C, memory allocation, Unix processes, shell architecture) through to distributed modern full-stack web engineering.
+- 💻 **Full-Stack Proficiency**: Experienced in crafting reactive user interfaces with **React**, **Next.js**, and **Tailwind CSS**, paired with robust backends in **Node.js**, **Express**, **Python (Flask)**, and **Go**.
+- 🗄️ **Data & Architecture**: Practical experience managing both relational databases (**PostgreSQL**, **MySQL**, **MS SQL Server**) and NoSQL data stores (**MongoDB**, **Redis**).
+- ⚙️ **Systems Mindset**: Love digging under the hood to see how compilers, operating systems, and network protocols interact to produce performant software.
+- 🤝 **Open for Collaboration**: Open to software engineering roles, impactful open-source contributions, and high-growth projects.
+
+---
+
+### 🛠️ Tech Arsenal & Skillset
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,go,js,ts,java,react,nextjs,nodejs,express,mongodb,postgres,mysql,redis,firebase,bash,linux,git,github,githubactions,gcp,postman,tailwind,figma" alt="Skill Icons" />
+</div>
+
+<br/>
+
+<details open>
+<summary><b>Detailed Technology Breakdown</b></summary>
+<br/>
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | `C` • `C++` • `Python` • `Go` • `JavaScript (ES6+)` • `TypeScript` • `Java` • `Bash / Shell` |
+| **Frontend & Mobile** | `React.js` • `Next.js` • `React Native` • `Tailwind CSS` • `HTML5` • `CSS3` |
+| **Backend & APIs** | `Node.js` • `Express.js` • `Python Flask` • `RESTful APIs` |
+| **Databases & Caching** | `MongoDB` • `PostgreSQL` • `MySQL` • `Redis` • `Microsoft SQL Server` |
+| **Cloud, DevOps & Tools** | `Linux / Unix` • `Git` • `GitHub Actions` • `Google Cloud Platform` • `Firebase` • `Vercel` • `Postman` |
+| **Design & Management** | `Figma` • `Canva` • `Trello` |
+
+</details>
+
+---
+
+### 🌟 Featured Projects
+
+<div align="center">
+
+| Project | Description | Stack | Links |
+| :--- | :--- | :--- | :---: |
+| **Zemenay Tech Solutions** | Full corporate solutions web application delivering a modern, responsive user experience and enterprise capabilities. | `Next.js` `React` `Tailwind CSS` `Vercel` | [🌐 Live Demo](https://zemenay-tech-solutions.vercel.app) • [💻 Code](https://github.com/Segniko/Zemenay-Tech-Solutions) |
+| **Apex Monitoring Engine** | High-performance open-source system monitoring and telemetry engine built for reliable observability and health tracking. | `Go` `Systems Programming` `Metrics` | [💻 Code](https://github.com/Segniko/Apex) |
+| **AirBnB Clone (v4)** | Complete end-to-end AirBnB full-stack architecture: custom command CLI console, MySQL database storage engine, Flask RESTful API, and dynamic web front-end. | `Python` `Flask` `MySQL` `SQLAlchemy` | [💻 Code](https://github.com/Segniko/AirBnB_clone_v4) |
+| **Community Forum** | Interactive community platform with threaded discussions, user authentication, and topic feeds. | `Node.js` `Express` `MongoDB` `JavaScript` | [💻 Code](https://github.com/Segniko/Community-Forum) |
+| **Attendance Management System** | Robust attendance tracking system featuring object-oriented design and structured record management. | `C++` `OOP` `Data Structures` | [💻 Code](https://github.com/Segniko/Attendance-Management-System) |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/Segniko/Zemenay-Tech-Solutions">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Segniko&repo=Zemenay-Tech-Solutions&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Zemenay Tech Solutions Pin" />
+  </a>
+  <a href="https://github.com/Segniko/Apex">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Segniko&repo=Apex&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Apex Pin" />
+  </a>
+</div>
+
+---
+
+### 📊 GitHub Activity & Metrics
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-stats-extended.vercel.app/api?username=Segniko&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Segniko's GitHub Stats" width="100%" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://streak-stats.demolab.com/?user=Segniko&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakNum=58A6FF&stroke=58A6FF&currStreakLabel=58A6FF" alt="Segniko's GitHub Streak" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Segniko&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 💬 Random Developer Wisdom
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</div>
+
+---
+
+### 📬 Get In Touch
+
+<div align="center">
+
+  <p>Whether you're looking to discuss a project, explore collaboration opportunities, or just talk tech, feel free to drop a line!</p>
+
+  <a href="https://segni.is-a.dev">
+    <img src="https://img.shields.io/badge/🌐_Website-segni.is--a.dev-58a6ff?style=for-the-badge" alt="Website" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/segni-assaye-38055a283/">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:segniassaye2@gmail.com">
+    <img src="https://img.shields.io/badge/✉️_Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+  <br/><br/>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,24&height=100&section=footer" width="100%" />
+
+  <p><sub>⭐️ Crafted with care by <a href="https://github.com/Segniko">Segni Assaye</a></sub></p>
+
+</div>
